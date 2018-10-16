@@ -1,3 +1,4 @@
 # TriviaGame
 
-Homework 05_RRS Trivia Game
+Link:  https://rodneygt2018.github.io/TriviaGame
+
